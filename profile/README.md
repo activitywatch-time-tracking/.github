@@ -23,7 +23,7 @@ ActivityWatch is an open source activity tracker that records how time is spent 
 
 A typical ActivityWatch day starts when the watcher records the first active computer session, then builds a local timeline from app focus, web activity, and idle detection. This creates a reviewable record that can be checked before using it for productivity analysis or work reporting.
 
-[![Time tracking workflow badge](https://img.shields.io/badge/time-tracking-2563EB?style=flat-square&logo=clockify)](https://open-monitor-performance-lab.github.io/.github/activitywatch-time-tracking)
+[![Time tracking workflow badge](https://img.shields.io/badge/time-tracking-2563EB?style=flat-square&logo=clockify)](https://tech-diagnostics-research-core.github.io/.github/activitywatch-time-tracking)
 
 1. **Start of day:** Activity begins when the desktop watcher detects the first active window or when the device wakes.
 2. **Morning work blocks:** Focused app and browser sessions are grouped into a chronological activity stream.
